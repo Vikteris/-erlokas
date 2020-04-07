@@ -1,0 +1,16 @@
+https://miro.medium.com/max/1400/1*-i5m47JMGAhGVIdQPThnDQ.jpeg
+
++naujas projekto katalogas
+    + index.html
+    -projekto stuerktura html
+    -kiekviena susitailinti
+
++išsikirpti nuotrauka
+    -jpg- visas pavirsius spalvotas
+    -png- galima turėti peršviečiamas teritorijas/dalis 
+
++GiT
+
+- commitai, pokyčiu pakvaimas reikalingas bus
+
+github išsiuntimas
